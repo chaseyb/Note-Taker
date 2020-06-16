@@ -19,7 +19,7 @@
 
   ## Install
   * open gitbash on Windows or Terminal on Mac
-  * https://github.com/chaseyb/Template-Engine.git
+  * https://github.com/chaseyb/Note-Taker.git
  
   ## Usage
  Open README-Generator in Terminal/CLI, and enter:
