@@ -1,8 +1,8 @@
  # Note Taker 
   A Express.js note taking application.
 
-   ![GitHub language count](https://img.shields.io/github/languages/count/chaseyb/hot-restaurant)
-![GitHub top language](https://img.shields.io/github/languages/top/chaseyb/hot-restaurant)
+   ![GitHub language count](https://img.shields.io/github/languages/count/chaseyb/note-taker)
+![GitHub top language](https://img.shields.io/github/languages/top/chaseyb/note-taker)
   
 
   ## Table of Contents
