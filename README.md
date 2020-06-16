@@ -23,13 +23,13 @@
   ```
           
   ## Usage
-  ### TBA
+   TBA
           
   ## Licences 
   ![badge](https://img.shields.io/badge/License-Open-blue.svg)
           
   ## Contributor
-  ### Chase Johnson
+   Chase Johnson
             
   ##  Tests
   ### Video coming soon
