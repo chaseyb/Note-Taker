@@ -18,12 +18,16 @@
   ### A simple applicayion that allows the user to create and modify notes. 
 
   ## Install
+  * open gitbash on Windows or Terminal on Mac
+  * https://github.com/chaseyb/Template-Engine.git
+ 
+  ## Usage
+ Open README-Generator in Terminal/CLI, and enter:
+
   ```
   npm install
+  node index.js 
   ```
-          
-  ## Usage
-   TBA
           
   ## Licences 
   ![badge](https://img.shields.io/badge/License-Open-blue.svg)
