@@ -32,7 +32,7 @@
    Chase Johnson
             
   ##  Tests
-  ### Video coming soon
+  Video coming soon
 
   ## Questions?
   * [Chaseyb](https://github.com/Chaseyb)
