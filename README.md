@@ -26,7 +26,7 @@
 
   ```
   npm install
-  node index.js 
+  node server.js
   ```
           
   ## Licences 
