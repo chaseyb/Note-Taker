@@ -4,20 +4,18 @@ const express = require("express");
 // Create an express server.
 const app = express();
 
-// Set port.
+// Port Set 
 const PORT = process.env.PORT || 3000;
 
-//EXPRESS
+// Express 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-// ROUTES
-
+// Page routes 
 require("./routes/APIroutes")(app);
 require("./routes/HTMLroutes")(app);
 
-// LISTENER
-
+// Server Listener 
 app.listen(PORT, function() {
   console.log("App listening on PORT: " + PORT);
 });
