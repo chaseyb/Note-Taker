@@ -10,24 +10,23 @@
   - [Installation](#install)
   - [Usage](#usage)
   - [Licences](#licences)
-  - [Contribution](#contribution)
-  - [Tests](#tests)
   - [Questions](#questions)
     
   ## Description
-  ### A simple applicayion that allows the user to create and modify notes. 
+  A simple application that allows the user to create and modify notes. 
 
   ## Install
-  * open gitbash on Windows or Terminal on Mac
+  * Open gitbash on Windows or Terminal on Mac
   * https://github.com/chaseyb/Note-Taker.git
- 
-  ## Usage
- Open README-Generator in Terminal/CLI, and enter:
+  * Open README-Generator in Terminal/CLI, and enter:
 
   ```
   npm install
   node server.js
   ```
+ 
+  ## Usage
+The user will be able to create and store notes using it 
           
   ## Licences 
   ![badge](https://img.shields.io/badge/License-Open-blue.svg)
@@ -35,8 +34,8 @@
   ## Contributor
    Chase Johnson
             
-  ##  Tests
-  Video coming soon
+  ##  Heroku Live Link
+
 
   ## Questions?
   * [Chaseyb](https://github.com/Chaseyb)
