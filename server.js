@@ -1,21 +1,19 @@
-// Require the Express
+// Express 
 const express = require("express");
 
-// Create an express server.
-const app = express();
+// Routes
+const apiRoutes = require("./routes/apiRoutes.js");
+const htmlRoutes = require("./routes/htmlRoutes");
 
-// Port Set 
+const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Express 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-// Page routes 
-require("./routes/APIroutes")(app);
-require("./routes/HTMLroutes")(app);
+app.use(express.static("public"));
+app.use("/api", apiRoutes);
+app.use("/", htmlRoutes);
 
-// Server Listener 
-app.listen(PORT, function() {
-  console.log("App listening on PORT: " + PORT);
-});
+// Listener
+app.listen(PORT, () => console.log(`Listening on PORT ${PORT}.`));
