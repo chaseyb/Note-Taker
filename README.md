@@ -35,7 +35,7 @@ The user will be able to create and store notes using it
    Chase Johnson
             
   ##  Heroku Live Link
-  [App link] (https://note-taker-5550.herokuapp.com "App Link")
+  [App link](https://note-taker-5550.herokuapp.com "App Link")
 
   ## Questions?
   * [Chaseyb](https://github.com/Chaseyb)
